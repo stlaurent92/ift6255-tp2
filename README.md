@@ -2,8 +2,5 @@
 
 Idées:
 - Implémenter le stemming de Krovetz
-- Implémenter des nouveux modèles (neuroneux, etc)
-- Améliorer l'efficacité (en terme de temps, en terme de qualité de résultats, etc)
-
-TODOs:
-- Créer un Overleaf
+- Analyser les modèles courrants et proposer des modifications (Améliorer l'efficacité (en terme de temps, en terme de qualité de résultats, etc)
+- Implémenter des nouveux modèles
